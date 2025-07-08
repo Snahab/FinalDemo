@@ -113,6 +113,15 @@ button:hover {
 .error {
   color: #ff5252;
 }
+body.ABOUT-PAGE .logo{
+  width: 150px;
+  height : auto;
+  max-width: 80%;
+}
+body.ABOUT-PAGE .logo{
+  display: block;
+  margin: 20px auto;
+}
 
 /* ===== DASHBOARD HEADER ===== */
 header {
